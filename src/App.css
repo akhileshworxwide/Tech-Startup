@@ -24,12 +24,12 @@ body {
   align-items: center;
   width: 100%;
   padding: 0px 10px;
-  .logo {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    cursor: pointer;
-  }
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
 }
 .nav-container {
   display: flex;
